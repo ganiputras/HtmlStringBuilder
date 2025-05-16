@@ -1,5 +1,9 @@
 # HtmlStringBuilder
 c# stringbuilder, html to stringbuilder makes email design easier.
+Change html template to string builder
+
 the application file is in "windows installer.zip"
-![app](https://github.com/user-attachments/assets/936d682d-5041-4fcb-abd4-1d66f5ec65c6)
+![image](https://github.com/user-attachments/assets/394f41c1-1157-4db6-b64a-af0129419924)
+![image](https://github.com/user-attachments/assets/9080bc29-0c7f-4795-a0e5-da51eda93d3c)
+
 
